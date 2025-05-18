@@ -3,20 +3,23 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **React portfolio site**
-- 🌱 I’m learning **Full-Stack Web Dev, IoT, and ML**
-- 💬 Ask me about **Python, React, Raspberry Pi, and MATLAB**
-- 📫 How to reach me: **darxharsh373@gmail.com**
+- 👨‍🎓 3rd-year B.Tech student (ECE)
+- 💻 Skilled in **C/C++**, learning **Data Structures & Algorithms** in C++
+- 🐍 Exploring **Python**: OOP, APIs, Flask, Tkinter, automation, games
+- 🔭 Currently working on a **python and embedded projects**
+- 📫 How to reach me: **kumarharsh9939@gmail.com**
 - ⚡ Fun fact: I build things both virtually and physically!
 
 ---
 
 ### 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry-pi)
+![Proteus](https://img.shields.io/badge/-Proteus-05122A?style=flat&logo=proteus&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
 ---
 
@@ -28,14 +31,25 @@
 
 ---
 
-### 🚀 Featured Projects:
-- 🎮 [Tic Tac Toe Game](link)
-- ⏰ [Digital Clock](link)
-- 🤖 [Voice Assistant](link)
-- 🔌 [LED Blinking Simulation](link)
+### 🎯 GfG & LeetCode Stats:
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/darxharsh?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+</p>
+
+<!-- GfG stats are not officially supported via image cards.
+     Here's a text link instead. -->
+
+<p align="center">
+  📘 Check out my <a href="https://www.geeksforgeeks.org/user/kumarharsh6373/" target="_blank">GeeksforGeeks Profile</a>
+</p>
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/YOURUSERNAME)](https://linkedin.com/in/YOURUSERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://darxharsh373.github.io/your-portfolio/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-656415164)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/harsh_6373/)  
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-14A800?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kumarharsh6373/)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/darxharsh/)
+
