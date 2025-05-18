@@ -10,24 +10,25 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 👨‍🎓 3rd-year B.Tech student (ECE)
-- 💻 Skilled in **C/C++**, learning **Data Structures & Algorithms** in C++
-- 🐍 Exploring **Python**: OOP, APIs, Flask, Tkinter, automation, games
-- 🔭 Currently working on a **python and embedded projects**
-- 📫 How to reach me: **darxharsh373@gmail.com**
-- ⚡ Fun fact: I build things both virtually and physically!
+- 👨‍🎓 3rd-year B.Tech student (ECE)  
+- 💻 Skilled in **C/C++**, learning **Data Structures & Algorithms** in C++  
+- 🐍 Exploring **Python**: OOP, APIs, Flask, Tkinter, automation, games  
+- 🔧 Working with **VS Code**, **Proteus**, and **Raspberry Pi**
+- 📫 Reach me: **darxharsh373@gmail.com**
+- ⚡ Fun fact: I enjoy combining hardware & software!
 
 ---
 
-### 💻 Languages I Use
+### 🛠 Languages and Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-00AEEF?style=for-the-badge&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" alt="MATLAB"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
+  <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Proteus_logo.png" width="48" alt="Proteus"/></a>
+</p>
 
 ---
 
@@ -48,21 +49,16 @@
 
 ---
 
-### 🎯 GfG & LeetCode Stats
+### 🌐 Connect with Me
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/darxharsh?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/harsh-kumar-656415164/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/harsh_6373/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/darxharsh373" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
+  </a>
 </p>
-
-<p align="center">
-  📘 Check out my <a href="https://www.geeksforgeeks.org/user/kumarharsh6373/" target="_blank">GeeksforGeeks Profile</a>
-</p>
-
----
-
-### 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-656415164)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/harsh_6373/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-14A800?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kumarharsh6373/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/darxharsh/)
