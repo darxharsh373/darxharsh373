@@ -50,6 +50,8 @@
 
 ---
 
+
+
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -59,13 +61,11 @@
   <a href="https://www.instagram.com/harsh_6373/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="https://github.com/darxharsh373" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
-  </a>
   <a href="https://www.geeksforgeeks.org/user/kumarharsh6373/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/GeeksforGeeks.svg" width="48" alt="GeeksforGeeks"/>
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210914114659/gfg3.png" width="48" alt="GeeksforGeeks"/>
   </a>
   <a href="https://leetcode.com/u/darxharsh/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" alt="LeetCode"/>
   </a>
 </p>
+
