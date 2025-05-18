@@ -13,8 +13,8 @@
 - 👨‍🎓 3rd-year B.Tech student (ECE)  
 - 💻 Skilled in **C/C++**, learning **Data Structures & Algorithms** in C++  
 - 🐍 Exploring **Python**: OOP, APIs, Flask, Tkinter, automation, games  
-- 🔧 Working with **VS Code**, **Proteus**, and **Raspberry Pi**
-- 📫 Reach me: **darxharsh373@gmail.com**
+- 🔧 Working with **Python Projects**  
+- 📫 Reach me: **kumarharsh9939@gmail.com**  
 - ⚡ Fun fact: I enjoy combining hardware & software!
 
 ---
@@ -23,11 +23,12 @@
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" alt="MATLAB"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
   <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Proteus_logo.png" width="48" alt="Proteus"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/proteus.svg" width="48" alt="Proteus"/></a>
 </p>
 
 ---
@@ -35,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darxharsh373&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=darxharsh373&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darxharsh373&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true&line_height=20&card_width=320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=darxharsh373&theme=radical&hide_border=true&card_width=320" />
 </p>
 
 ---
@@ -44,7 +45,7 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darxharsh373&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darxharsh373&layout=compact&theme=radical&hide_border=true&card_width=320" />
 </p>
 
 ---
@@ -60,5 +61,11 @@
   </a>
   <a href="https://github.com/darxharsh373" target="_blank">
     <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/kumarharsh6373/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/geekforgeeks.png" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://leetcode.com/u/darxharsh/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode"/>
   </a>
 </p>
