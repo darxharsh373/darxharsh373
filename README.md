@@ -13,7 +13,7 @@
 - 👨‍🎓 3rd-year B.Tech student (ECE)  
 - 💻 Skilled in **C/C++**, learning **Data Structures & Algorithms** in C++  
 - 🐍 Exploring **Python**: OOP, APIs, Flask, Tkinter, automation, games  
-- 🔧 Working with **Python Projects**  
+- 🔧 Working on **Python projects**  
 - 📫 Reach me: **kumarharsh9939@gmail.com**  
 - ⚡ Fun fact: I enjoy combining hardware & software!
 
@@ -63,9 +63,9 @@
     <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/kumarharsh6373/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/geekforgeeks.png" alt="GeeksforGeeks"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/GeeksforGeeks.svg" width="48" alt="GeeksforGeeks"/>
   </a>
   <a href="https://leetcode.com/u/darxharsh/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" alt="LeetCode"/>
   </a>
 </p>
