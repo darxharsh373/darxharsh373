@@ -4,6 +4,11 @@
   </a>
 </h1>
 
+<!-- 🎯 ADD YOUR IMAGE BANNER BELOW -->
+<p align="center">
+  <img src="https://github.com/darxharsh373/darxharsh373/blob/main/intro.png" alt="Harsh Kumar Intro Banner" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darxharsh373&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
@@ -50,8 +55,6 @@
 
 ---
 
-
-
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -68,4 +71,5 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
+
 
