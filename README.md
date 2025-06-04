@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh.;3rd+year+B.Tech+(ECE);DSA+%26+Python+Developer;Tech+Enthusiast+%F0%9F%94%8A" alt="Typing SVG" />
   </a>
 </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darxharsh373&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
