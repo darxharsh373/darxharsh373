@@ -29,7 +29,6 @@
   <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/></a>
   <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/proteus.svg" width="48" alt="Proteus"/></a>
 </p>
-
 ---
 ### 📊 GitHub Stat
 
