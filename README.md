@@ -48,7 +48,6 @@
 ---
 
 ## Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/harsh-kumar-656415164/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
