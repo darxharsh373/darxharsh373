@@ -46,7 +46,6 @@
 </p>
 
 ---
-
 ## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/harsh-kumar-656415164/" target="_blank">
