@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darxharsh373&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
-
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍🎓 3rd-year B.Tech student (ECE)  
