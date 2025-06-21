@@ -15,7 +15,7 @@
 - 📫 Reach me: **kumarharsh9939@gmail.com**  
 - ⚡ Fun fact: I enjoy combining hardware & software!
 
---
+---
 ## 🛠 Languages and Tools
 <p align="left">
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
